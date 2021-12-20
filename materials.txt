@@ -1,0 +1,8 @@
+stone
+wood
+copper
+iron
+gold
+leather
+string
+
